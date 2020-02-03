@@ -9,5 +9,7 @@ public class Main {
             System.out.println("This is the first change");
         }
 	// write your code here
+
+        System.out.println("End of for loop");
     }
 }
